@@ -1,0 +1,78 @@
+[submodule "PIC_Setup"]
+	path = PIC_Setup
+	url = https://github.com/Devilbinder/PIC_Setup.git
+[submodule "PIC_18F_blink"]
+	path = PIC_18F_blink
+	url = https://github.com/Devilbinder/PIC_18F_blink.git
+[submodule "PIC_18F_Running_LEDs"]
+	path = PIC_18F_Running_LEDs
+	url = https://github.com/Devilbinder/PIC_18F_Running_LEDs.git
+[submodule "PIC_18F_Button_LEDs"]
+	path = PIC_18F_Button_LEDs
+	url = https://github.com/Devilbinder/PIC_18F_Button_LEDs
+[submodule "PIC_18F_Button_Counter"]
+	path = PIC_18F_Button_Counter
+	url = https://github.com/Devilbinder/PIC_18F_Button_Counter
+[submodule "PIC_18F_Button_Mode"]
+	path = PIC_18F_Button_Mode
+	url = https://github.com/Devilbinder/PIC_18F_Button_Mode
+[submodule "PIC_18F_interrupts"]
+	path = PIC_18F_interrupts
+	url = https://github.com/Devilbinder/PIC_18F_interrupts
+[submodule "PIC_18F_timer0"]
+	path = PIC_18F_timer0
+	url = https://github.com/Devilbinder/PIC_18F_timer0
+[submodule "PIC_18F_UART"]
+	path = PIC_18F_UART
+	url = https://github.com/Devilbinder/PIC_18F_UART
+[submodule "PIC_18F_ADC"]
+	path = PIC_18F_ADC
+	url = https://github.com/Devilbinder/PIC_18F_ADC
+[submodule "PIC_18F_EEPROM"]
+	path = PIC_18F_EEPROM
+	url = https://github.com/Devilbinder/PIC_18F_EEPROM
+[submodule "PIC_18F_PWM"]
+	path = PIC_18F_PWM
+	url = https://github.com/Devilbinder/PIC_18F_PWM
+[submodule "PIC_18F_I2C"]
+	path = PIC_18F_I2C
+	url = https://github.com/Devilbinder/PIC_18F_I2C
+[submodule "PIC_18F_CAPTURE"]
+	path = PIC_18F_CAPTURE
+	url = https://github.com/Devilbinder/PIC_18F_CAPTURE
+[submodule "PIC_18F_SERVO_CONTROL"]
+	path = PIC_18F_SERVO_CONTROL
+	url = https://github.com/Devilbinder/PIC_18F_SERVO_CONTROL
+[submodule "PIC_18F_SERVO_CONTROL_GUI"]
+	path = PIC_18F_SERVO_CONTROL_GUI
+	url = https://github.com/Devilbinder/PIC_18F_SERVO_CONTROL_GUI
+[submodule "PIC_18F_Sleep"]
+	path = PIC_18F_Sleep
+	url = https://github.com/Devilbinder/PIC_18F_Sleep
+[submodule "PIC_18F_Comparator"]
+	path = PIC_18F_Comparator
+	url = https://github.com/Devilbinder/PIC_18F_Comparator
+[submodule "PIC_18F_WDT"]
+	path = PIC_18F_WDT
+	url = https://github.com/Devilbinder/PIC_18F_WDT.git
+[submodule "PIC_18F_FLASH"]
+	path = PIC_18F_FLASH
+	url = https://github.com/Devilbinder/PIC_18F_FLASH
+[submodule "PIC_18F_KEYPAD_INTERFACING"]
+	path = PIC_18F_KEYPAD_INTERFACING
+	url = https://github.com/Devilbinder/PIC_18F_KEYPAD_INTERFACING
+[submodule "PIC_18F_LCD"]
+	path = PIC_18F_LCD
+	url = https://github.com/Devilbinder/PIC_18F_LCD
+[submodule "PIC_18F_Segment_Displays"]
+	path = PIC_18F_Segment_Displays
+	url = https://github.com/Devilbinder/PIC_18F_Segment_Displays
+[submodule "PIC18F_SPI"]
+	path = PIC18F_SPI
+	url = https://github.com/Devilbinder/PIC18F_SPI
+[submodule "PIC18F_USB"]
+	path = PIC18F_USB
+	url = https://github.com/Devilbinder/PIC18F_USB
+[submodule "PIC18F_Analog_Temperature"]
+	path = PIC18F_Analog_Temperature
+	url = https://github.com/Devilbinder/PIC18F_Analog_Temperature
