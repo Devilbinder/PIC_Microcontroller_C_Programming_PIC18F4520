@@ -2,7 +2,7 @@
 
 This is the supporting repository for the PIC Microcontroller Programming video series.
 
-This is the unified reposatory for all the PIC Microcontroller tutorial examples.
+This is the unified repository for all the PIC Microcontroller tutorial examples.
 
 # *Video playlist*
 
@@ -11,10 +11,10 @@ This is the unified reposatory for all the PIC Microcontroller tutorial examples
 ## How to use this repository
 ### Option 1
 1. Git CLI is requered to download all the source file
-2. Clone the reposatory `git clone {repo clone URL}` 
+2. Clone the repository `git clone {repo clone URL}` 
 3. Run the following command `git submodule update --init --recursive`
 ### Option 2
-Click on one of the submodules and it will take you to the relavant reposatory
+Click on one of the submodules and it will take you to the relavant repository
 
 # ☕Coffee Funds☕
 
